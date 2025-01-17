@@ -113,6 +113,3 @@ query_id, docno, rank, score, rank_promotion
 ## Notes
 - Ensure all necessary dataset files are available before running scripts.
 - Adjust hyperparameters in `config.py` based on experimentation.
-
----
-For any issues or further improvements, feel free to contribute or raise an issue!
